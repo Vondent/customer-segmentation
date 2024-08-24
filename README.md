@@ -1,1 +1,3 @@
 # customer-segmentation
+
+in progress
